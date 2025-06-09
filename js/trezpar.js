@@ -1,8 +1,8 @@
-let numero = 0;
+let numero = 300;
 
-while ( numero <=100 ){
+while ( numero <=600 ){
     
-    if( numero % 2 == 1 ){
+    if( numero % 2 == 0 ){
         console.log ( numero );
         
     }

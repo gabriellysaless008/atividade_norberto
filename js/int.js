@@ -1,4 +1,4 @@
-let numero = 200
+let numero = 200;
 
 while ( numero <=400 ){
     console.log ( numero );
